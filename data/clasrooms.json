@@ -1,0 +1,14 @@
+[
+    {
+      "room_id": "LH101",
+      "capacity": 60,
+      "location": "Block A",
+      "features": ["projector", "whiteboard"]
+    },
+    {
+      "room_id": "LB201",
+      "capacity": 30,
+      "location": "Block B",
+      "features": ["lab_equipment", "computers"]
+    }
+  ]

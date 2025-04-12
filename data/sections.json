@@ -1,0 +1,12 @@
+[
+    {
+      "section_id": "CSE101-A",
+      "course_code": "CSE101",
+      "capacity": 50
+    },
+    {
+      "section_id": "EEE201-B",
+      "course_code": "EEE201",
+      "capacity": 25
+    }
+  ]

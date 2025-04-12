@@ -1,0 +1,22 @@
+[
+    {
+      "course_code": "CSE101",
+      "name": "Introduction to Computer Science",
+      "credits": 3,
+      "department": "CSE",
+      "lecture_hours": 2,
+      "lab_hours": 2,
+      "required_features": [],
+      "is_core": true
+    },
+    {
+      "course_code": "EEE201",
+      "name": "Basic Electrical Engineering",
+      "credits": 4,
+      "department": "EEE",
+      "lecture_hours": 3,
+      "lab_hours": 1,
+      "required_features": ["lab_equipment"],
+      "is_core": false
+    }
+  ]
